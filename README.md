@@ -5,11 +5,23 @@ En este repositorio se alojan los ficheros de datos utilizados para elaboración
 
 ### Técnica visualización 1: Stacked Bar Graphs
 #### Ficheros de datos:
+contratos_por_municipio_sector_grupo_ocupacion_genero_edad_Alicante_2018.xlsx
+contratos_por_municipio_sector_grupo_ocupacion_genero_edad_Castellón_2018.xlsx
+contratos_por_municipio_sector_grupo_ocupacion_genero_edad_Valencia_2018.xlsx
+#### Fuente:
+www.ine.es
+#### Visualización:
 
 ### Técniva visualización 2: Radar Chart
 #### Fichero de datos:
 Malaria_Spread.xlsx
+#### Fuente:
+
+#### Visualización:
+https://public.flourish.studio/story/1223051/
 
 ### Técnica visualización 3: Ridgeline charts
-#### Fichero de datos:
-
+#### Fichero de datos y fuente:
+https://raw.githubusercontent.com/plotly/datasets/master/2016-weather-data-seattle.csv
+#### Visualización:
+https://colab.research.google.com/drive/1Uv5ETMwKxhPO-RtPGMSIV6W1l9Gr5DRe?usp=sharing
