@@ -6,8 +6,6 @@ En este repositorio se alojan los ficheros de datos utilizados para elaboración
 ### Técnica visualización 1: Stacked Bar Graphs
 #### Ficheros de datos:
 contratos_por_municipio_sector_grupo_ocupacion_genero_edad_Alicante_2018.xlsx
-contratos_por_municipio_sector_grupo_ocupacion_genero_edad_Castellón_2018.xlsx
-contratos_por_municipio_sector_grupo_ocupacion_genero_edad_Valencia_2018.xlsx
 #### Fuente:
 www.ine.es
 #### Visualización
